@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pressed{
+
+    color: #fff;
+    background-color: aqua;
+}
+
+
+img{
+    display: flex;
+justify-content: center;
+align-items: center;
+/* height: 100vh; */
+text-align: center;
+background-attachment: fixed;
+background-size: 100% 100%;
+
+max-height: 82vh;
+height: 100%;
+    width: 100%;
+}
+
+.btn-container .btn {
+    border-radius: 100px;
+justify-content: center;
+align-items: center;
+text-align: center;
+    margin: 15px 15px;
+    max-width: 125px;
+   
+
+}
+
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+
